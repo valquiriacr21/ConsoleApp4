@@ -1,0 +1,16 @@
+I:\Repos - copiar\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.exe
+I:\Repos - copiar\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.deps.json
+I:\Repos - copiar\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.runtimeconfig.json
+I:\Repos - copiar\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.runtimeconfig.dev.json
+I:\Repos - copiar\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.dll
+I:\Repos - copiar\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.pdb
+I:\Repos - copiar\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.csproj.AssemblyReference.cache
+I:\Repos - copiar\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+I:\Repos - copiar\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.AssemblyInfoInputs.cache
+I:\Repos - copiar\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.AssemblyInfo.cs
+I:\Repos - copiar\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+I:\Repos - copiar\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.dll
+I:\Repos - copiar\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\refint\ConsoleApp4.dll
+I:\Repos - copiar\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.pdb
+I:\Repos - copiar\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.genruntimeconfig.cache
+I:\Repos - copiar\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ref\ConsoleApp4.dll
